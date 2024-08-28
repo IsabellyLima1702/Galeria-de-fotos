@@ -1,0 +1,28 @@
+h1{
+    background-color: pink;
+    color: purple;
+    padding: 16px;
+    text-align: center;
+}
+
+h2{
+    background-color: #cb6de2;
+    color: orange;
+    text-align: center;
+}
+img{
+    width:620px;
+    margin: auto;
+    border: 6px solid gray;
+    height: 620px;;
+}
+th, td{
+    padding:15px;
+    width:300px;
+}
+tr:nth-child(even){
+    background-color: pink;
+}
+body{
+    background-color:rgb(213, 190, 193)
+}
